@@ -1,5 +1,6 @@
-# Multilabel URL Classification using Feature Learning
+# Multilabel (Malicious) URL Classification using Feature Learning
 By: Enzo Casamassima
+
 For: CMPE 789 - CyberML - Spring 2021
 
 ## Purpose
